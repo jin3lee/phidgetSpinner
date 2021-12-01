@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1055424245489",
+    "firebase_url": "https://fidget-game.firebaseio.com",
+    "project_id": "fidget-game",
+    "storage_bucket": "fidget-game.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1055424245489:android:51a2d07927c8fe2c",
+        "android_client_info": {
+          "package_name": "com.fidget.game"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1055424245489-jtdv7p82eslaoldjeevnebcegavbtpmc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fidget.game",
+            "certificate_hash": "872e538d4d7c71972535d1ecd6bc704b349e5b3e"
+          }
+        },
+        {
+          "client_id": "1055424245489-2ifc603sp8tn40dp3vjdkl7va96p9rop.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfJU3wLSDcV0uwP2W6ifBDWBfr0W5-DnE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1055424245489-2ifc603sp8tn40dp3vjdkl7va96p9rop.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
